@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Edit_Produk>
+  <Produk Kode_Produk="P0001" Nama_Produk="Roti Sobek" Harga="10000"/>
+  <BOM_Produk>
+    <Material Kode_Material="M0002" Kebutuhan_Material="2"/>
+    <Material Kode_Material="M0001" Kebutuhan_Material="4"/>
+    <Material Kode_Material="M0004" Kebutuhan_Material="3"/>
+  </BOM_Produk>
+</Edit_Produk>
